@@ -2,9 +2,7 @@
 
 `trainer-zero` is a model-agnostic PyTorch training engine. It uses
 [Accelerate](https://huggingface.co/docs/accelerate) for device placement,
-distributed data loading, mixed precision, and launch-time parallelism. The
-same engine can train language models, LoRA adapters, diffusion models,
-computer-vision models, JEPA-style models, or custom research systems.
+distributed data loading, mixed precision, and launch-time parallelism. `JUST A TRAINER ENGINE BUILD FOR ME HEHE`
 
 The user owns the data processing code. Trainer-zero requires a `DataModule`
 with a dataset and collator, then wraps its loaders with Accelerate. The user
