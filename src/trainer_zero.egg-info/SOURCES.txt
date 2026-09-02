@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/trainer_zero/__init__.py
+src/trainer_zero/__main__.py
+src/trainer_zero/cli.py
+src/trainer_zero/config.py
+src/trainer_zero/data.py
+src/trainer_zero/logging.py
+src/trainer_zero/trainer.py
+src/trainer_zero.egg-info/PKG-INFO
+src/trainer_zero.egg-info/SOURCES.txt
+src/trainer_zero.egg-info/dependency_links.txt
+src/trainer_zero.egg-info/entry_points.txt
+src/trainer_zero.egg-info/requires.txt
+src/trainer_zero.egg-info/top_level.txt
+tests/test_config.py
+tests/test_trainer.py

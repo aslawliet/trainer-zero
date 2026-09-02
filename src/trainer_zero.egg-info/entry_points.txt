@@ -1,0 +1,2 @@
+[console_scripts]
+trainer-zero = trainer_zero.cli:main

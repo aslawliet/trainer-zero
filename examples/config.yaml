@@ -1,0 +1,5 @@
+output_dir: runs/basic-cli
+report_to: null
+num_train_epochs: 1
+train_batch_size: 32
+logging_steps: 5
